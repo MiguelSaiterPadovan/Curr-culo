@@ -9,3 +9,6 @@ h1{
 .foto{
     text-align: center;
 }
+#foto{
+    border-radius: 50%;
+}
