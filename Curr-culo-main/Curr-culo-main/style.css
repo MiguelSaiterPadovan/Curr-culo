@@ -1,0 +1,14 @@
+html{
+    background-color: chocolate;
+}
+
+h1{
+    text-align: center;
+}
+
+.foto{
+    text-align: center;
+}
+#foto{
+    border-radius: 50%;
+}
